@@ -1,11 +1,13 @@
 body {
     margin: 0;
     overflow: hidden;
-    background: rgb(97, 97, 97);
+    background: rgb(49, 49, 49);
 }
 
 .project-heading {
     text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
 }
 
 .project-description {
@@ -19,21 +21,18 @@ body {
     display: flex;
     justify-content: space-around;
     background: rgb(53, 53, 53);
-    /* border: solid red 1px; */
-    width: 80vh;
+    width: 75vh;
     margin: 0 auto;
 }
 
-
-
-
 .flex-container {
-    border: 0.5px solid white;
-    height: 80vh;
-    width: 80vh;
+    border: 1px solid white;
+    height: 75vh;
+    width: 75vh;
     margin: 0 auto;
+    margin-top: 2vh;
     display: flex;
-    background: lightgray;
+    background: rgb(134, 134, 134);
     display: grid;
     grid-template-rows: repeat(16, 1fr);
     grid-template-columns: repeat(16, 1fr);
