@@ -1,13 +1,36 @@
 body {
     margin: 0;
     overflow: hidden;
-    background: darkgray;
+    background: rgb(97, 97, 97);
 }
 
+.project-heading {
+    text-align: center;
+}
+
+.project-description {
+    display: block;
+    text-align: center;
+    color: white;
+    
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-around;
+    background: rgb(53, 53, 53);
+    /* border: solid red 1px; */
+    width: 80vh;
+    margin: 0 auto;
+}
+
+
+
+
 .flex-container {
-    border: 1px solid white;
-    height: 90vh;
-    width: 90vh;
+    border: 0.5px solid white;
+    height: 80vh;
+    width: 80vh;
     margin: 0 auto;
     display: flex;
     background: lightgray;
