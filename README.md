@@ -5,7 +5,8 @@ The etch-a-sketch lets the user drag the mouse over to leave a trail over a spac
 [Click Here!](https://thesudeshdas.github.io/etch-a-sketch/) to see the live preview of the project.
 
 ### Demo
-![Demo pics](https://github.com/thesudeshdas/etch-a-sketch/blob/master/demo/demo1.png)
+![Demo 1 pic](https://github.com/thesudeshdas/etch-a-sketch/blob/master/demo/demo1.png)
+![Demo 2 pic](https://github.com/thesudeshdas/etch-a-sketch/blob/master/demo/demo2.png)
 
 ### Motivation
 The project is created under the curriculam of The Odin Project - Web Development 101, to understand DOM Manipulation and event handling.
