@@ -2,7 +2,7 @@
 The etch-a-sketch lets the user drag the mouse over to leave a trail over a space. The trail can be of black and random colors using the butttons. The Reset button lets the user to change the grid size.
 
 ### Live Preview
-[Click Here!](https://thesudeshdas.github.io/etch-a-sketch/) to see the live preview of the project.
+Ctrl + [Click Here!](https://thesudeshdas.github.io/etch-a-sketch/) to see the live preview of the project.
 
 ### Demo
 ![Demo 1 pic](https://github.com/thesudeshdas/etch-a-sketch/blob/master/demo/demo1.png)
