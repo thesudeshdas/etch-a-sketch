@@ -17,5 +17,5 @@ The project is created under the curriculam of The Odin Project - Web Developmen
 * JavaScript
 
 ### Credits
-The Odin Project - Web Development 101.
+The Odin Project - Web Development 101. <br>
 [Click Here!](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project) to learn more about the project.
